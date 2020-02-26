@@ -1,4 +1,4 @@
-Table of Contents
+目录
 =================
 
    * [基于部标jt808的冷链物流车辆调度管理系统](#基于部标jt808的冷链物流车辆调度管理系统)
@@ -7,7 +7,7 @@ Table of Contents
    * [在线Demo:](#在线demo)
    * [功能模块图：](#功能模块图)
 
-目录生成插件 [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
+目录生成插件： [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 
 
