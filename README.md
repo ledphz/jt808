@@ -27,7 +27,7 @@
 
 2.服务端与前端交互：利用vue+element-ui+springMVC完成页面开发，其中，与司机的沟通利用websocket实现
 
-3.数据层：利用mybatis+mysql进行DAO层开发，利用redis缓存部分业务数据；
+3.存储层：利用mybatis+mysql进行DAO层开发，利用redis缓存部分业务数据；
 
 4.项目部署：前后端分离部署，利用nginx反向代理
 
